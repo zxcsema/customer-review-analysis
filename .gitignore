@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+reports/*.png
+reports/figures/*.png
+.ipynb_checkpoints/
+*.py[cod]
+.DS_Store
+*.json
